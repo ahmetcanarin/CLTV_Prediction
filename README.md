@@ -1,11 +1,11 @@
 # CLTV Prediction with BG-NBD and Gamma-Gamma
 
-**Business Problem**
+**Business Problem**  
 
 FLO wants to determine a roadmap for its sales and marketing activities.
 In order for the company to make medium- and long-term plans, it is necessary to estimate the potential future value that existing customers will generate for the company.
 
-**Dataset Story**
+**Dataset Story**  
 
 The dataset consists of information obtained from the past shopping behaviors of customers who made their most recent purchases in 2020–2021 via OmniChannel (both online and offline shopping).
 
