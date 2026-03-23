@@ -14,7 +14,7 @@ pd.set_option('display.width', 500)
 pd.set_option('display.float_format', lambda x: '%.2f' % x)
 pd.options.mode.chained_assignment = None
 
-df_ = pd.read_csv("CRM Analytics/Ödev/flo_data_20k.csv")
+df_ = pd.read_csv("flo_data_20k.csv")
 df = df_.copy()
 
 df.describe().T
