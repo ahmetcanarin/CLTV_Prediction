@@ -55,7 +55,7 @@ The dataset consists of customer shopping behavior data from **2020–2021**, co
 - Creation of CLTV dataset structure  
 - Model implementation:
   - **BG/NBD (Beta-Geometric / Negative Binomial Distribution)** → purchase frequency prediction  
-  - **Gamma-Gamma Model** → monetary value prediction  
+  - **Gamma-Gamma Submodel** → monetary value prediction  
 - CLTV calculation (6-month projection)  
 - Customer segmentation based on CLTV  
 
